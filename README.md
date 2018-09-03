@@ -37,7 +37,7 @@ document.querySlectorAll('nameOfTheElement');
 
 ### To modify the content in an element
 ```javascript
-element.innerHTML="content of your wish"; // You can also see what's inside an element using this property
+element.textContent="content of your wish"; // You can also see what's inside an element using this property
 ```
 
 ### To the elements in the HTML
